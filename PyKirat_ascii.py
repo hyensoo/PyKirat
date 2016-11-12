@@ -1,3 +1,4 @@
+#Made by unixforever
 #-*- coding: utf-8 -*-
 data=list(raw_input("Enter PlainText: "))
 binary=[]
